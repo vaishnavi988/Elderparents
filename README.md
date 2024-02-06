@@ -12,7 +12,7 @@ This web application aims to provide personalized caregiver matching services fo
 
 ## Prototype Link
 
-Check out the [Figma prototype](https://www.figma.com/proto/your-prototype-link](https://www.figma.com/file/Lf2FpTbM2hMgU6mfFbKxi8/Untitled?type=design&node-id=1%3A101&mode=design&t=4bo0sWOchR9my3hY-1) for a visual representation of the application's design and functionality.
+Check out the [Figma prototype](https://www.figma.com/proto/your-prototype-link](https://www.figma.com/file/Lf2FpTbM2hMgU6mfFbKxi8/Untitled?type=design&node-id=1%3A101&mode=design&t=4bo0sWOchR9my3hY-1)) for a visual representation of the application's design and functionality.
 
 ## Usage
 

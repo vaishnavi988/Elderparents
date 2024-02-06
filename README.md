@@ -1,5 +1,8 @@
 # Elderly Care Application
 
+![WhatsApp Image 2024-02-06 at 23 33 37](https://github.com/vaishnavi988/Elderparents/assets/84900250/99bf8ab8-e818-4a7b-8f0a-ad17c5ca31fd)
+
+
 ## Introduction
 
 This web application aims to provide personalized caregiver matching services for elderly individuals in need of assistance with daily activities and health care. By leveraging advanced algorithms and user input, we streamline the process of connecting elderly users with caregivers who meet their specific requirements, including location, health needs, and qualifications.
